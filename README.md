@@ -1,2 +1,1 @@
-# hello-world
-idk
+print("Hello World!")
